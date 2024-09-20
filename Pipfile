@@ -1,0 +1,30 @@
+
+st.set_page_config(page_title="Home", page_icon="👋")
+
+st.write("# Welcome to my Dashboard! 👋")
+st.sidebar.header("Home.")
+st.markdown(
+            """
+            ### nananana
+            This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces.
+
+            Olist connects small businesses from all over Brazil to channels without hassle and with a single contract.
+        
+            Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.
+        
+            See more on our website: www.olist.com
+
+            **👈 Select a features to looking out the visualization and explanation from the dropdown on the left**
+
+            ### Want to learn more?
+
+            - Check out the full dataset [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) 
+            - Jump into our [repositories](https://github.com/Adhiputraa?tab=repositories)
+
+            ### Want to connect with me?
+
+            - You can contact me to my linkedin profile [Linkedin](https://www.linkedin.com/in/aditya-yoga-a-8316a1129/)
+            - Come and enjoy my another data viz on my tableau profil [Tableau](https://public.tableau.com/app/profile/aditya.yoga.adhiputra5161/vizzes)
+        """
+        )
+
